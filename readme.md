@@ -10,4 +10,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+1. Create your own codespace - https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=558427272
+2. In codespace, open NEW terminal
+3. Run docker-compose up in the new terminal
+4. On PORTS tab hover over Frontend (3001) row, column "Local Address", click Globe icon. 
+5. Create new user
